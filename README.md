@@ -99,7 +99,7 @@ The full dataset - flat JSON, C header, per-board provenance blocks, and the
 verification logs - is available on request for security researchers,
 detection engineers, and authorized test environments.
 
-Contact: <your contact channel here>
+Contact: <yogsotho@atomicmail.io>
 
 ## Author
 
